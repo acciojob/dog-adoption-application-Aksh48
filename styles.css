@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+*{
+	background-color: aqua;
+}
+
+label {
+            display: block;
+            margin-bottom: 5px;
+}
+input[type="submit"] {
+            background-color: #4caf50;
+            color: #fff;
+            cursor: pointer;
+}
